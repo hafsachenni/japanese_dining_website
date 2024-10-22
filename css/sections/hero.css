@@ -16,7 +16,7 @@
     object-fit: contain;
 }
 .hero-image__overlay{
-    background-color: #2e3031;
+    background-color: #292a2b;
     position: absolute;
     inset: 0;
     width: 100%;

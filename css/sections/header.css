@@ -7,7 +7,7 @@
     display: flex;
     position: relative;
     padding: 20px;
-    background-color: #2e3031;
+    background-color: #292a2b;
 }
 .header__logo h4{
     color: #fff;
@@ -49,5 +49,5 @@
 .header__menu-mobile{
     display: none;
     cursor: pointer;
-    background-color: #343A40;
+    background-color: #292a2b;
 }
