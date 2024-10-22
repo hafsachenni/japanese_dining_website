@@ -46,12 +46,12 @@ To run the project locally, follow these steps:
     ```
 
 3. **Install Dependencies**
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 4. **Start the Development Server**
-```bash
-npm run dev
-```
+    ```bash
+    npm run dev
+    ```
 - Then, the development server will be started at http://localhost:5173/
