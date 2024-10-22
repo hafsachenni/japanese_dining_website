@@ -16,7 +16,7 @@
     object-fit: contain;
 }
 .hero-image__overlay{
-    background-color: #343A40;
+    background-color: #2e3031;
     position: absolute;
     inset: 0;
     width: 100%;
@@ -139,7 +139,7 @@
     width: 42px;
     height: 42px;
     object-fit: contain;
-    border-radius: 70px;
+    border-radius: 100%;
 }
 .hero-content__review p{
     font-size: 12px;
